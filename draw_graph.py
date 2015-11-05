@@ -7,10 +7,14 @@ from Queue import Queue
 
 def parse_csv(csv_file):
   csv_reader = csv.reader(open(csv_file), dialect=csv.excel)
-  return {unicode(key, 'utf-8') for [_, key] in csv_reader}
+  return {unicode(key, 'utf-8'):value for [value, key] in csv_reader}
 
 def draw_graph(centroid, graph):
-  g = Digraph(centroid)
+  g = Digraph(centroid, engine='sfdp')
+  g.attr('node', style='filled')
+  g.node(centroid, color='crimson')
+  for key in graph:
+    g.node(key, color=('burlywood2' if key is not centroid else 'crimson'))
   large_set = Queue()
   large_set.put(centroid)
   visited_from_graph = {}
@@ -19,7 +23,7 @@ def draw_graph(centroid, graph):
     if key in graph and key not in visited_from_graph:
       visited_from_graph[key] = True
       for keyword in graph[key]:
-        g.edge(key, keyword)
+        g.edge(key, keyword, penwidth=str(float(graph[key][keyword])/50.0))
         large_set.put(keyword)
   g.view()
 

@@ -6,17 +6,17 @@ import sys
 
 allowed_set = {
   u'fin',
-  u'bedzie',
-  u'aglt',
+  # u'bedzie',
+  # u'aglt',
   u'praet',
   u'impt',
-  u'imps',
+  # u'imps',
   # u'inf',
   u'pcon',
   u'pant',
   u'ger',
-  u'pact',
-  u'ppas'
+  # u'pact',
+  # u'ppas'
 }
 
 def parse_side(side_tuple):

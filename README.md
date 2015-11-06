@@ -16,6 +16,8 @@ $ mkvirtualenv WdSJN
 
 ## Create snippets
 
+Datasets downloaded from: http://www.nkjp.pl
+
 ```Bash
 (WdSJN) $ python parse_notes.py data/bialy.html False | uniq | head -n 100
 ```

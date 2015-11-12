@@ -12,8 +12,8 @@ allowed_set = {
   u'impt',
   # u'imps',
   # u'inf',
-  u'pcon',
-  u'pant',
+  # u'pcon',
+  # u'pant',
   u'ger',
   # u'pact',
   # u'ppas'
@@ -62,7 +62,8 @@ def print_snippet_list(snippet_list, seek_function = lambda x:x[0]):
 
 def main(filename):
   print_snippet_list(parse_note(filename))
-  # print_snippet_list(parse_note(filename), seek_function = lambda x:x[1][0])
+  # print_snippet_list(parse_note(filename), seek_function = lambda x: x[1][0])
+  # print_snippet_list(parse_note(filename), seek_function = lambda x: x[0] + ":" + x[1][1] if len(x[1]) >= 2 else x[0])
 
 if __name__ == '__main__':
   if len(sys.argv) == 2:

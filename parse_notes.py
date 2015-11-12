@@ -19,11 +19,40 @@ allowed_set = {
   # u'ppas'
 }
 
+filter_set = {
+  u'.',
+  u',',
+  u':',
+  u';',
+  u'!',
+  u'-',
+  u'–',
+  u'?',
+  u')',
+  u'(',
+  u'\"',
+  u'„',
+  u'”',
+  u'“',
+  u'[',
+  u']',
+  u'…',
+  u'&',
+}
+
 def parse_side(side_tuple):
   left_data = re.findall(ur"([^\s]+?) \[(.*?)\]", side_tuple, re.DOTALL)
   left_data = [(key, value.split(':')) for (key, value) in left_data]
   return left_data
 
+def filter_special_characters(filter_side_fun):
+  def helper(snippet_list):
+    new_snippet_list = filter_side_fun(snippet_list)
+    new_snippet_list = [item for item in new_snippet_list if not any(x in item[0] for x in filter_set)] if new_snippet_list is not None else None
+    return new_snippet_list
+  return helper
+
+@filter_special_characters
 def filter_left(side_list):
   new_side_list = None
   for i in xrange(len(side_list)-1, 0, -1):
@@ -33,6 +62,7 @@ def filter_left(side_list):
       break
   return new_side_list
 
+@filter_special_characters
 def filter_right(side_list):
   new_side_list = None
   for i in xrange(len(side_list)):

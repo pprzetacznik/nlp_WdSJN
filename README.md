@@ -25,4 +25,14 @@ Download dataset from from: http://www.nkjp.pl or use \*.html files from `data` 
 Run:
 ```Bash
 (WdSJN) $ python parse_notes.py data/bialy.html | uniq | shuf | head -n 100
+(WdSJN) $ python parse_notes.py data/bialy.html | uniq | shuf | head -n 100 > data/bialy.snippets.txt
+```
+
+## Create couple from graph and snippets
+
+```Bash
+(WdSJN) $ python -m snippet_coupler data/godlo.snippets.txt > "data/godlo.coupled.txt"
+(WdSJN) $ python -m snippet_coupler data/orzel.snippets.txt > "data/orzel.coupled.txt"
+(WdSJN) $ python -m snippet_coupler data/ptak.snippets.txt > "data/ptak.coupled.txt"
+(WdSJN) $ python -m snippet_coupler data/bialy.snippets.txt > "data/bialy.coupled.txt"
 ```

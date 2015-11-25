@@ -1,573 +1,144 @@
-azjatycki hall poznać jak to być ptak on oślepiać ruda zorza wiedzieć ujrzeć znak następny
-barowy jak ptak który przysiąść chwila niezbyt bezpieczny
-barwny szczygieł ptak usiąść suchy
-bezbrzeżny zanosić się śpiew kwilić ptak wysoko korona biały
-ptak===[16]==>śpiew
-biały===[2]==>ptak
-bezwietrzny topola nic się dziać czarny ptak siedzieć drzewo nieruchomy sztuczny błyszczący jak czarny
-ptak===[2]==>czarny
-ptak===[3]==>drzewo
-biały jama zabłąkać się ty ptak młoda chmara gromada cały
-biały===[2]==>ptak
-biały karton rozpostrzeć skrzydło czarny ptak trzymać dziobać noga mniejszy
-ptak===[2]==>skrzydło
-ptak===[2]==>czarny
-biały===[2]==>ptak
-biały===[79]==>czarny
-biały żagiel duży ptak skrzydło odlot łagodny zachodni wiatr posuwać on pełny
-ptak===[2]==>skrzydło
-biały===[2]==>ptak
-bielony ściana pomalować czerwono brystol biały trochę krzywy ptak bez korona rozpinać skrzydło odsunąć stół miejsce zatrzymać się próg odległość przyjrzeć się nowy
-ptak===[2]==>skrzydło
-biały===[3]==>ściana
-biały===[2]==>ptak
-bliski ptak słyszeć hałas unosić się powietrze odlatywać zawiedziony
-ptak===[5]==>powietrze
-błyszczący dywan rajski ptak trzepotać skrzydło wylatywać pokój lalka być zamyślony
-ptak===[2]==>skrzydło
+chodzić film czy książka być rajski ptak który śpiewać
 ptak===[4]==>rajski
-błyszczący oko ptak siedzieć ten sposobić napawać się pełny
-boży co ja zrobić nadlecieć ptak wyrwać ja portmonetka ręka powtórzyć żałośnie ledwo wymówić ostatni
-boży imię jak ptak ogromny wylecieć pierś moja wiedzieć być miał ciężki
-boży jak ptak malować wyrwać się biedny
-brzmiący tak cudownie baśniowo ptak rajski wielki ptak rajski wspaniały ozdobnik pyszałek czy rajski ptak królewski my zachwycić swoja miano ten pyszałek dwudzielny
-ptak===[4]==>rajski
-całkowity pewność to być gołąb pan kulka zrobić kilka krok on strona ptak podreptać ławka uciekać dawać się złapać zobaczyć nieznajomy śnieżny
-ptak===[24]==>gołąb
-cały armia królewski ptak rwać się zbrojny
-cały dzień spać niespokojnie stać się on drżeć chłód jakiś ptak zakrzyczeć przeraźliwie las kościół drugi raz widzieć prawdziwy
-cały europ nic grzyb deszcz twierdzić odradzać się popiół egipski ptak feniks rzeczywistość być jak hydra miejsce każdy
-cały jak ptak bezradność ostatni
-cały świat śledzić on to się zobaczyć jak to ptak upierzenie ma inny
-cementowy droga pomykać strona ptak spoglądać pot poderwać się zatoczyć łuk zniknąć niebo scena szósty
-ptak===[31]==>niebo
-chrześcijański autor legenda spotkać mag spróbować się unieść jak ptak ostatni
-chwalebny wysokość radować się sławić stwórca maleńki jak ziarnko proso ptak świetlisty bór być nachylać się przesieka biały
-biały===[2]==>ptak
-cichy woda osowiale opuszczony ptak zniechęcić smutny jak daleko być dom zatęsknić zdrowy słony
-ciemny korona włos wyglądać jak stara kakadu myśl śmieszny nieprawdziwy ptak co żałować babcia chcieć zaprzeczać przyznać babka słowny
-ciemny staw przelatywać ptak zapisywać jeden
-ciężki worek niedziela pusto być świerszcz ćwierkać ptak jakiś poderwać się czas rżysko spokojny
-cięższy ciało przepaść sen przyjść spaść oko jak purpurowy ptak biały płyn móc popłynąć bez przeszkoda to fragment ta najłatwiej uchwytny
-biały===[2]==>ptak
-czarny kruk uśmiechnąć się się złośliwie sięgać kamień trafić ptak wzbić się niebo skrzeczeć swa ptasi
-ptak===[2]==>czarny
-ptak===[9]==>kruk
-ptak===[31]==>niebo
-czarny mewa ten najszybszy morski ptak powietrze być jeden
-ptak===[2]==>czarny
-ptak===[7]==>mewa
-ptak===[5]==>powietrze
-czarny piach skała międzymorze drapieżny ptak czas spoczywać zdawać on się chwila on sam to być co inny
-ptak===[2]==>czarny
-czarny skrzydło łopotać szczać góra ptak podrywać się lot krążyć wierzchołek wyłapywać ostatni
+otworzyć drzwi winda ptak poderwać
+przelecieć chichotać duży ptak niebieski skrzydło chichoczący osioł zakomunikować
 ptak===[2]==>skrzydło
-ptak===[2]==>czarny
-ptak===[41]==>lot
-czarny to szczur to nietoperz to ptak to ssak chwilowy
-ptak===[2]==>czarny
-ptak===[3]==>ssak
-czerwony głowa uważnie śledzić on lot witać on radość być to ptak bohater wiele on mit legenda uchodzący jak tłumaczyć ja praojciec główny
-ptak===[41]==>lot
-częsty znajdować się gniazdo który być pisklę drugi mniejszy ptak spłynąć wysoki
-ptak===[4]==>gniazdo
-czwarty część swoje łup każdy ptak maj maj wszystek
-długi dziobek zwisać luźno ptak ponieść śmierć uderzać drut telegraficzny
-długi dziób to ptak to słoń stylizować słoń oba strona dziób trąba krótki
-ptak===[7]==>dziób
-długi lata się zaczynać kończyć wiedzieć chcieć wznieść się wysoko jak ptak jak brać tajemniczy
-ptak===[14]==>lata
-długi lotka biedny ptak człowiek biedny poprawić pomyśleć buda który kopniak rozwalać wichura zdarty
-długi szyć bok jak ptak spoglądać naprzód nieufność obserwować tłum oba strona droga błoto gościniec siwy
-długowieczny byt tak jak ptak obdarzony skrzydło ryba płetwa człowiek dwie noga krwawy
+ptak===[6]==>niebieski
+sławić stwórca maleńki jak ziarnko proso ptak świetlisty bór być nachylać
+przyspieszyć ten ptak dziwnie on niepokoić
+zabrać jak ptak pragnąć
+zrywać pot jak ptak ulica fruwać
+przelatywać jeden dach drugi co ptak szczęśliwszy się wydawać
+nieść jak ptak wcześnie zachodzić
+nadawać on wyróżniać inny kształt niepodobny być sąsiedni który drapieżny ptak usiłować
+móc to ptak jakiś dziwny zaćwierkać
+nadlecieć biały ptak zawisnąć
+biały===[2]==>ptak
+wskazać ja korzenie kosmiczny drzewo wielki ptak żelazny skrzydło przylatywać
 ptak===[2]==>skrzydło
-dłuższy leżenie tracić świeżość ptak jeść wyrzucać zastępować inny
-dłuższy nizać kilka uderzenie serce który tłuc się moja pierś jak ptak uwięziony żelazny
-donośny głos kaczka ten głupi ptak głosować tak wiedzieć czy wówczas złapać wesołek być podobny
-ptak===[2]==>kaczka
-dostrzegalny chwilowo światło przybyć tyle gwiazda się przyćmić odezwać się się pierwszy ptak dłuższy
-drewniany brama pociągnąć sznurek dzwonek przestraszony hałas ptak uciec drzewo zostawiać kołnierz biały
 ptak===[3]==>drzewo
-biały===[2]==>ptak
-drewniany kozioł królować czcić ptak ibis sufit zwisać wypchać krokodyl poustawiany
-drugi brzeg to zasłona modlitwa ogień dzik ptak rozumieć półsłówko on wiatr to wiatr niebo to niebo ja płynąć bezbronny
-ptak===[31]==>niebo
-drugi strona rynek ciężko opadać dół jak ogłuszony ptak dzielnica fabryczny
-drugi strona stać się nieruchomo las jakiś ptak latać niespokojnie konar drzewo powrót szukać zgubiony
-ptak===[42]==>latać
-ptak===[3]==>drzewo
-drugi ścisnąć siła kolano ręka jak ptak konać grabiejący
-drugi święto spać bardzo długo dosypiać rano noc spać czujnie jak ptak niebezpieczeństwo któryś my wziąć alba oboje być wciąż realny
-duży gumowiec brodzić kałuża jak wielki kolorowy ptak tona potok elokwencja obmyślić wszystek
-ptak===[5]==>kolorowy
-duży szamotać się się błoto ostrożeń podejść bliżej to być ogromny ptak ognisty błotnisty cały tułów skrzydło umazany
+zakrzyknąć jakiś ptak drapieżny alba zahuczeć
+połapać co to ptak to zaraz ręka mach ogień dotknąć
+unosić się ptak rozpostarty skrzydło podobny orzeł ptak opierać
 ptak===[2]==>skrzydło
-dwumetrowy parkan jak ptak taki miał przynajmniej wrażenie lądować zdrowy
-dymiący popielisko wyjść ten feniks ptak święty inny
-dynamiczny zamykać się krąg ruchliwy ptak dusza osiadać dna alegoryczny pelikan własny
-dyndający sznur balon ptak starać się się wielki
-dziki ptak rozglądać się się czujnie jak dzik ptak pragnąć jeden
-dziki wracać echo zawodzenie dziwnie się to słyszeć ptak jak góra daleki
-dziwny maszyna ładować pociąg zupełnie jak ptak biały król ma pofrunąć ludożerca co ten biały
-biały===[2]==>ptak
-dziwny to być ptak zwiastun symbol dawniejszy
-falisty ruch ptak motyl taneczny
-fioletowy ciemność stop cichutko skrzypieć drobny żwir jakiś niewielki ptak bezszelestnie przelecieć głowa powietrze być upalny
-ptak===[5]==>powietrze
-francuski który feeria błękitny ptak wystawiony
-furkoczący strzała niefortunny zamachowiec wrzasnąć krótko co runąć dół jak zranić ptak łopotać zerwany
-geometryczny wzór to myśl zatrzepotać to serce zatrzepotać maleńki ptak pochwycić znienacka duży
-gęsty kropelka pani otworzyć sama drzwiczki kareta jak ptak wionąć bielejący
-gimnazjalny chwila spłoszony ptak bić skrzydło on pierś uspokoić się myśl stać się się jasne łańcuch sylogizm czytelny
-ptak===[2]==>skrzydło
-głęboki rysa przecinać karoseria rajski ptak być ścieżka mijać kolejny
-ptak===[4]==>rajski
-głęboki sen niebo rozjaśniać się zaśpiewać pierwszy ptak góra lekki
-ptak===[31]==>niebo
-głęboki zakamarek pamięć przenikliwie krzyknąć ptak zaraz zamilknąć pierwszy ruszyć się jasny
-głupi być jak but głowa ten pokonać ostatni rok żyć jak ptak trawa otoczony
-głupi serce miotać się bez sens jak ptak obcięty
-gorący piekarnik ptak upiec zalać śmietana zmieszany
-gorący skrzydło wielki rozzłoszczony ptak silny
-ptak===[2]==>skrzydło
-gotowy strzał głowa przelatywać ja myśl martwy ptak minąć my odwracać się nagle mówić chór szczęśliwy
-gotowy zabicie on obrona gin ptak modlitwa docierać bóg powiedzieć ja być przesądny
-górny region pokój pamięć pozostać ja szczególnie jeden kondor ogromny ptak szyja nagi
-górski koza chodzić ptak lot jeść wąż pełzać promień słońce mgnienie ludzki
-ptak===[41]==>lot
-gruchający uroczo gołąbek otworzyć drzwiczki drugi brać gwizdnąć przenikliwie wówczas ptak pofrunąć prosto kolano komandor templariusz szeptać uspokajający
-gumowy pętla pot szybka pociągać zwisać kawałek rzemień chrupnięcie nerw chodzić ptak trzepotać udawać żyć trzeba być skubać to jak najszybciej Chińczyk być wprawiony
-gwałtowniejszy ruch trząść on się fałd podbródek płoć ptak trochę wróbel jaskółka jemiołuszka domek wyjść długowłosy dziadek wygląd emerytowany
-ptak===[16]==>jaskółka
-ptak===[40]==>wróbel
-harmonijny życie on być trójka to wolny ptak lubić się wiązać emanować seks co sprawiać on być pełno chętny
-ptak===[6]==>wolny
-historyczny ta pojawiać się się pomurnik ptak czarownica czar klasyczny
-inny jak ptak schody iść kobieta jeden
-inny niebo ścieśnić się osiąść mrok bezszelestnie jak opadać ptak bezlistny
-ptak===[31]==>niebo
-inny się dobijać wadzić nikt być to ptak przelotny który wędrować się wiadomy
-inny to odlecieć poryw szczęście natchnienie jak ptak co uciekać ziemia niegościnny
-inny zniknięcie jak ptak przywódca stado odlatujący
-inny źle wypchać ptak mścić się otrzymywać liczny
-jasny zaśpiewać cieniutko zajęczeć zerwać się woda ptak przeszyć zatrzepotać skrzydło sypać pióra powietrze jesienny
-ptak===[2]==>skrzydło
-ptak===[2]==>pióra
-ptak===[5]==>powietrze
-jeden dach drugi co ptak szczęśliwszy
-jeden dziesięć strzał zbójca pustynia najstarszy kapłan dobrowolnie się spalić wielki ptak spłonąć zostać król wszyscy ludożerca wszyscy czarny
-ptak===[2]==>czarny
-jeden ja twój złoty ptak skrzydlaty chwila taki wyznanie siwowłosy
-jeden krzesło rozewrzeć dziób zaskrzeczeć skrzeczenie przebrzmieć krzesło siedzieć ptak rycerz płaszcz kaptur bliźniaczo podobny pozostały
-ptak===[7]==>dziób
-jeden krzyż przysiąść ptak niewiele większy wróbel ma mała głowa cienki
-ptak===[40]==>wróbel
-jeden miejsce sadzawka pływać utopić ptak kulka chcieć on wyciągnąć cichy
-jeden ręka dług czarny płaszcz poła zamieść podłoga wyjść chwiać się jak ranny ptak wydawać się trochę szaleniec pisać środowisko literacki
-ptak===[2]==>czarny
-jeden sikora raniuszek cały ptak mały jak orzech ogon taki wspaniały jaki cud tyle się ten zmieścić ta mchowy
-jeden szarpnięcie ręka odrywać on łepek teraz ptak uciec on być ważny to co nieść przywiązany
-jeden szwankować to się podfruwać ja wy być taki ptak kaleka jeden
-jednostkowy doświadczenie czytać słowo ptak co inny
-jeleni alba ptak bez powietrzny
-jeleni siedzieć czarny smoła nieduży ptak odwrócić głowa bok patrzyć żółty
-ptak===[2]==>czarny
-kamienny ściana miasto pies oko świeca czerwono krzak leszczyna jakiś ptak lecieć ukos on szukać coś wezbrany
+ptak===[111]==>orzeł
+orzeł===[216]==>ptak
+lecieć jak ptak zależeć
 ptak===[8]==>lecieć
-kanadyjski nazwa przykład ten piękny ptak niebieski
+zaskrzeczeć żółty ptak przysiadać ramię ciągle ten robić
+poznawać papierowy ptak zerwać
+wzbijać się jak ptak gładko prześlizgiwać się
+latać teraz on grzbiet bałwan czarny ptak grozić spadnięcie pokład kapitan kazać
+ptak===[42]==>latać
+ptak===[2]==>czarny
+przefrunąć jak ptak musieć
+pójść metaliczny echo ptak chcieć
+patrzyć jakiś plakat stłuczka policjant latarnia ptak jak inny pasażer zwyczajnie jechać
+dziobać raz raz jak rozjuszony ptak gwałtownie zwężać
+spać mocny twardy sen ptak otworzyć
+gwizdnąć przenikliwie wówczas ptak pofrunąć
+zatrzepotać ptak zerwać
+wabić się palec śpiewaczka ta pierś wzdęty rozdygotany rezonans potężny śpiew miłość ptak to wola polny dzik ptak łza żal smutek czynić
+ptak===[16]==>śpiew
+iść ostrożeń grząsko to mieszkanie jeden sikora raniuszek cały ptak mały jak orzech ogon taki wspaniały jaki cud tyle się ten zmieścić
+wiedzieć jak to ptak odróżniać
+drzemać każdy prawdziwy mężczyzna zatrwożony ptak chwila usiłować
+położyć się koło ja jak lis koło lisica jak ptak ptak rozlegać się
+myśleć taki muzeum ptactwo kanadyjski nazwa przykład ten piękny ptak niebieski skrzydło być jak wiadomo
+ptak===[2]==>skrzydło
 ptak===[6]==>niebieski
 ptak===[3]==>piękny
-każdy chwila trzcina podrywać się ptak kołować czarny
-ptak===[2]==>czarny
-każdy kropla deszcz kulka grad płatek śnieg powiew wiatr każdy ptak każdy
-każdy rzecz patrzyć rzeka obłok ptak mrówka gazon być część harmonijny
-kiwający się gałąź chwila zerwać się jakiś ptak stać się tak obracać się raz raz niepokój spoglądać co chwila inny
-klasycystyczny dwór większość domownik zauważyć twa przyjaźnić się indyk życzliwość obdarzyć ty ten ptak chcieć pozbawiać ty złudzenie przerażać okrucieństwo los być to los pospolity
-koguci który zarżnąć piętnaście lata ten być postrach podwórko ten ptak miał najbardziej kolorowy ogon jak kiedykolwiek życie widzieć czarny
-ptak===[2]==>czarny
-ptak===[14]==>lata
-ptak===[5]==>kolorowy
-kolorowy szmata szal kwiat ptak tropikalny
-ptak===[5]==>kolorowy
-kompozycyjny być pomarańczowy ptak emu wystający wieża czołg namalować emu stwierdzić dzieło charakteryzować się pełnia artystyczny
-komunikacyjny skrót konduktor motorniczy być miejsce czarny ptak załopotać nerwowo skrzydło ocierać pióra list drzewo morelowy
+zniewalać grzeczność gotowość ustępstwo być skłonny jak ptak zadowolić się łaskawie rzucony ziarno schylenie się wymagać
+rozpostrzeć ręka jak ptak zawołać
+opadać dół jak ogłuszony ptak dzielnica fabryczny chłopiec czapka uszanka ciskać
+siedzieć ptak rozpuszczony skrzydło pierś wyobrażony być godło narodowy czarny tur głowa posąg stać się
 ptak===[2]==>skrzydło
 ptak===[2]==>czarny
-ptak===[3]==>drzewo
-ptak===[2]==>pióra
-kontrastujący się postać zgryźliwy staruszek irytować gadatliwy dzieciak grubasek sympatyczny pies hałaśliwy ptak być to postać jednowymiarowy
-kosmiczny drzewo wielki ptak żelazny
-ptak===[3]==>drzewo
-kredowy papier noc sfrunąć kamienica wielki rajski ptak wystraszony znienacka poranek alba co bardziej realny
-ptak===[4]==>rajski
-królewski stolica spaść ten ptak być miał ogromny
-krwistoczerwony śnieg teraz brązowieć marszczyć się spadać zjeść on żaden ptak zebrać człowiek być wina aromatyczny
-leciutki mgiełka bielić się staw wysoko drzewo zatrzepotać przebudzić ptak sennie natychmiast ścichnąć tłok sala przyćmiony
-ptak===[3]==>drzewo
-lekki jak ptak duży
-leśny dróżka obóz wojsko drapieżny ptak myszołów podnieść się łopot skrzydło niski
-ptak===[2]==>skrzydło
-leśny szum jak święta jezioro lecieć ptak tak któż to zapamiętać człowiek dobry
-ptak===[8]==>lecieć
-leśny zwierz potężny ptak najśmiglejszy żaden
-lewy ręka topór dwusieczny głowa on siedzieć ptak rozpuszczony
-lewy skrzydło przyglądać się się bacznie intruz to być ptak poza ta dola trochę niżej leżeć ziemny
-ptak===[2]==>skrzydło
-lewy strona trzasnąć gałązka drzewo poderwać się duży ptak pierwsza ptaszysko jaki dziś spotkać zauważyć silny
-ptak===[3]==>drzewo
-lotny jak ptak być żywy
-ludowy mądrość marny to ptak co własny
-ludzki przylgnąć szyb mieć nadziać to nocny ptak rozpłaszczyć szyb twarz zwilgotniały
-ludzki ptak przemienić się piękny
-ptak===[3]==>piękny
-ludzki spać ptak być widziany szczać topola sam widzieć odmykać czujny
-ludzki świat przyroda ptak święty klękać się bocian wydany
-ptak===[12]==>bocian
-ludzki tydzień emeryt zemrzeć zapalenie płuco zostać pochować ma miejscowy cmentarz to wierny ptak codziennie odwiedzać balkon okazywać rozpacz prawdziwie ludzki
-łatwy łup jak ranny ptak przykryć się kołdra łóżko płynąć porwany
-łysy czaszka puścić taśma zapis wstecz się przewijać sam kąt oko ptak nieruchomy
-maleńki las to zanurkować pot ptak przysiąść szpon zaciśnięty
-malutki kawka imię oswoić ptak trzymać swe opiekun wolność spędzać cały
-ptak===[55]==>wolność
-malutki kreseczka zygzak mur przelecieć ptak czy taki mały ptaszek udźwignąć gałązka oliwny
-martwy głos puchacz który pohukiwać my przepaść bycie ptak zadławić się się masa powietrze alba dać się spokój swoja wątły
-ptak===[5]==>powietrze
-masywny dziobać móc bycie to orzeł jastrząb jakikolwiek ptak drapieżny rysunek być uproszczony on wić się deseń podobny
+czuć usta moja szyja nasłuchiwać czy odezwa się ja spłoszony ptak polujący kuna on on chcieć
+chłonąć ona pieszy wędrowiec kraniec kraniec trudno przejście ptak przelecieć
+móc bycie to orzeł jastrząb jakikolwiek ptak drapieżny rysunek być uproszczony on wić
 ptak===[111]==>orzeł
 ptak===[5]==>jastrząb
 orzeł===[216]==>ptak
 orzeł===[11]==>jastrząb
-melancholijny okrzyk przystanąć zacząć nasłuchiwać chwila uśmiechnąć się się to ptak śpiewać swoja miłosna pieśń bez najmniejszy
-metalowy pręt wisieć godło dzban drewniany konik pies spłowiały ptak wymalować deska inny
-miękki jądro patrzyć jak ptak zjadać małe orzeszek przesuwać się następny
-miękki skrzydło ptak złoty przyjść pewien
-ptak===[2]==>skrzydło
-mocny kolor lubić cicho pusto czas ptak jakiś poderwać się wóz głowa ja huczeć jak młyn pusty
-mokry pot łza poduszka pokój oznaczać kobieta ptak lot ambicja niewinny
-ptak===[41]==>lot
-morderczy wzrok uprzykrzony ptak kuknąć triumfalnie swoja ostatni
-mosiężny spinka pierścień berło leszczyna magia istota to gadać ptak roztropny
-możliwy skutek dziecko chwila ptak lipa zaćwierkać rok słyszeć on ta sama por trzy szósty
-mrożący krew żyła widowisko balon ptak ożyć rozpoczynać pojedynek wąż właściwie być to pojedynek rodzaj dziwaczny
-nabożny medytacja ptak jakiś uwić on dłoń gniazdo złożyć być jajka anielski
-ptak===[4]==>gniazdo
-nadrzeczny świergolić rozbudzić ptak coś śmignąć ja noga coś jak polny
-najbarwniejszy być zasłużony ptak najpiękniejszy
-najstraszniejszy smok wyglądać jak zabawka ognisty ptak być władca wszyscy magiczny
-najważniejszy to on narodzić się ptak czas przynosić noc dzień księżyc gwiazda koniec słońce inny
-najwyższy środkowa spać czarny ptak otworzyć nagle oko posiwiały
+krążyć trwożnie nic ptak zagubić mgła knajpa moknąć
+można poszukiwać znaczenie obręb muzyka śpiew to nieduży ptak rodzina charakteryzować się zmienna szarawy upierzenie to on wydawać
+ptak===[16]==>śpiew
+płynąć bezbronny ramię rzeka to największy miłość największy przekraczanie jasność ptak to ptak wiatr być człowiek człowiek prześwietlić
+gwizdać ptak czy przypomnieć
+dostrzegać nagle ciemny przesuwać się punkt to wielki czarny ptak dreptać
 ptak===[2]==>czarny
-najzwyklejszy przedmiot pracownia ptak to niebieski to czarny muzyk kształt barwa kameralny
-ptak===[2]==>czarny
-ptak===[6]==>niebieski
-następny dzień rana dziecko zerwać się pobiec zobaczyć co słychać gołąb ptak żyć pocieszać on jak umieć wszyscy być przejęty
+jeść jakiś ptak pewnie gołąb być miękki delikatny spadać
 ptak===[24]==>gołąb
-naturalny dudek prasa donieść skradziony zostać rzadki ptak największy
-ptak===[2]==>dudek
-nawodny owad ptak woda narzucać się cząstka ta tajemnica pożreć dawny obraz świat stworzony
-ptak===[3]==>owad
-nędzny płycizna usiłować pławić się biały ogromny niemy łabędź żal się robić patrzyć wielki wodny ptak męczyć się ta powiększony
-biały===[2]==>ptak
-niebieski niebo ten nasz ptak rodowy być najśmielszy jak ten dowieść posłuchać jak opowiedzieć ja następujący
-ptak===[6]==>niebieski
-ptak===[31]==>niebo
-niedopuszczalny targanie świętość ptak który własny
-nieobecny bardzo nalegać akcentować być ostatni złoty ptak skrzydlaty miejsce pojechać pisarka letnisko być powiat znaleźć szeroki
-niespodziany jak ten ptak co jezioro odbić się znienacka odgadnąć swa przeznaczenie być nierozumny
-nieszczęsny kaczka wciąż ściskać pacha rozumieć ptak dawny
-ptak===[2]==>kaczka
-nieśmiały ręka kochać się rana pierwszy ptak odezwać się się szary
-niewinny dziewczyna moja pragnienie czuć się nic ptak który tul drobne ciało swoja silny
-niezdolny wydanie głos uszkodzić chory ptak osuwać się się podłoga gasnący
-nieziszczalny ona wniebowstąpienie dźwięk osiągnąć pierwsza otwarcie krtań łatwo klarownie jak ptak padły się objęcia podniecony
-niezły chałupka wydukać przyjechać zobaczyć najczęściej spotykać niebieski ptak utrzymywać się dorywczy
-ptak===[6]==>niebieski
-niezrozumiały teraźniejszość musieć minąć kropla sekunda sekunda minuta minuta ptak krążyć ten co ta por być drugi
-niosący co ptak ślina miłosna gardziołko unieść ta ogród ledwo tknięty
-nowy orzeł obowiązkowo bez korona taki ptak nazywać się taki stan oficjalny
-ptak===[111]==>orzeł
-orzeł===[216]==>ptak
-orzeł===[6]==>korona
-nowy pikować strzelać tak dziobać raz raz jak rozjuszony ptak gwałtownie zwężać swa skręt być to jedyny
-obiadowy zwierz ptak oswajać się rychło wiedzieć bór cały ta trzy człowiek przyjść żaden
-odepchnięty brutalnie odpadać jak ptak rozstawiony
-odważny myśleć on życie odważyć się latać powietrze jak ptak tak wysoko jak ona to ona być nasi związek ta silniejszy
-ptak===[42]==>latać
-ptak===[5]==>powietrze
-ognisty tak wpadać ogień powiadać ptak feniks polot przeobrażenie rychło tarcza miesięczny
-ogromny parasol schodzić dom wzgórze kościół otrzepywać kropla deszcz machać jak ptak czarny
-ptak===[2]==>czarny
-ogromny sum papier garść złoty ptak dach to trzymać ręka urzędowy papier upragniony
-opuszczony żagiel jak zarozumiały ogromny wspaniały ptak który chcieć się rozłożyć skrzydło daleki
-ptak===[2]==>skrzydło
-orli lot królewski biały ptak unieść się skrzydło amarant ten obraz zagrać trąba zawarczeć wszystek
-ptak===[2]==>skrzydło
+nadziać pan ptak my powiedzieć
+milczeć jakiś ptak przelecieć
+musieć bycie straszny być jak dzik ptak zamknąć naraz klatka wychodzić
+wyjaśnić ptak to być jednostka miara ile to być centymetr zapytać
+celować miał posiwiały skroń lśniący granatowy pióra ten ptak pomyśleć
+ptak===[2]==>pióra
+zaszemrać orli lot królewski biały ptak unieść
 ptak===[41]==>lot
 biały===[2]==>ptak
-orli pióra chwila widzieć jak ptak spadać pocisk morze pot się wznosić triumfalnie nieść ryba nagle droga różowy
-ptak===[2]==>pióra
-ostatni pozycja zajmować malować ptak który portret zrobić wisieć ściana uwielbiać piersiasty
-ostry dziób czarny ptak radośnie zatrzepotać skrzydło krzyknąć tryumfalnie ptasi
-ptak===[2]==>skrzydło
-ptak===[2]==>czarny
-ptak===[7]==>dziób
-ostry kolce wołać krętogłów ptak rozgarnąć sprężysty
-ostry wykłócać się się widzenie syn klatka jak ptak pokój siedzieć trzy inny
-otwarty dziób czy to być ptak pierzasty tułów umieścić dwa ciężki
-ptak===[7]==>dziób
-otwarty okno jak spłoszony ptak oboje milczeć rozumieć stać się się coś bardzo przykry
-pajęczy chwytać witka włos jakiś wielki ptak latać ciężki
-ptak===[42]==>latać
-papierniczy żarna potknąć się się galeryjka westchnąć jak gong strop oderwać się ptak alba nietoperz począć krążyć niespokojnie przecinać siny
-pełen dostojeństwo sztuczny ptak żywy gołąb inny ta co zrywać się rozsypany
-ptak===[24]==>gołąb
-pełny jabłka wspomnienie zapach trzcina przekraczanie płynąć dzik ptak zaszyć ogień niedościgły dzik ptak rozum półsłówko dzik rzeka rozum człowiek sztywny
-pewien ogromny ptak który być miał żelazny
-pewien raz jeden wściec ptak mało wykuć aktorka lewy
-pewny przyjaciółka pracować muzeum nauka co to ptak spytać przystawiać ostrożeń palec haczykowaty
-pierzasty pierwsza chwila rozpoznać gołąb gołąb ptak zazwyczaj ukazywać się lot alba wysiadywać wysoko dach alba przechadzać się się otwarty
-ptak===[41]==>lot
-ptak===[24]==>gołąb
-piękny ekslibris dziedzic kupa kamień unosić się ptak rozpostarty
-ptak===[2]==>kupa
-ptak===[3]==>piękny
-płonący zachód olbrzym ptak feniks objąć ogień rzucać różnokolorowy
-pobłyskujący chaszcze to posłuchanie jak ptak śpiewać tak opowiadanie starszy
-pochylony sylwetka stać się zaraz brama odezwać się się obudzić ptak dobiec stukot pierwszy
-podcięty skrzydło nieszczęsny ptak poszturchiwać kataryniarz wyciągać niechętnie mała szufladka drukowane wróżba który jeden
-ptak===[2]==>skrzydło
-podniesiony dekiel jak ptak podejść klawiatura jeden
-podziemny rzeka nagle czuć musieć wysiąść autobus uciekać jak najdalej wzbicie się jak ptak pędzić sawanna otwierać oko drzwi otwierać się pneumatyczny
-pogrążony medytacja szaman złoto flet dzwonek złoty ptak potężny
-pokryty liszaj pleśnie mur wydawać się szczelina cegła wyjść ptak natychmiast przeobrazić się czarnowłosy
-pokryty lód skrzydło ptak kamień zobaczyć ciężki
-ptak===[2]==>skrzydło
-polny dzik ptak łza żal smutek czynić wspak ta potworny
-polski szlachta powiedzieć ja cierpko brzydki to ptak co własny
-pomierzwiony trawa moja głowa ptak zataczać przewodnik specjalny
-potężny śpiew miłość ptak to wola polny
-ptak===[16]==>śpiew
-powietrzny prąd ptak ujrzeć dalej wzgórze który tak dawno biały pazur dowodzić wielotysięczny
-biały===[2]==>ptak
-powolny fala dobiegać głuchy szum jakiś ptak przelatywać drzewo drzewo wydać przejmujący
-ptak===[3]==>drzewo
-poziomy pięciolinia bajkowy słowik to ptak niezwykły
-ptak===[10]==>słowik
-pozostawiony być jak ptak przykuć niemoc ziemia ptak który odpaść klucz inny
-prawdziwy czuć się jak ptak podcięty
-prawy ramia jak ptak słychać być rytmiczny oddech fala rozbijający
-produkowany przemysł samolot najprawdopodobniej oderwać się ziemia podobnie jak polecić ptak przemoczony
-ptak===[4]==>samolot
-przechylony jak nasłuchiwać ptak włos mieć zebrany
-przeciwny wypuszczony spanikować zdezorientować ptak latać jeden
-ptak===[42]==>latać
-przejęty skoczyć wilk wysoko wzbijać się góra ptak on puścić dłoń niewidzialny
-przelotny ptak który pozostawiać ślad czułości to tkliwość wzbierać ten ptak być kapryśny czas długo znikać zmieniać trasa przelot wola bardziej żyzny
-przemożny uczucie potęga jak tajemniczy ptak który stos mirra sam się palić popiół własny
-przepełniony sala przedzierać się poza kulisa korytarz ptak omdlały długi
-przetrącony czort on wiedzieć odchuchać ja on cóż to ptak dzik kaczka widzieć pan jak teraz biały
-ptak===[2]==>kaczka
-biały===[2]==>ptak
-przewidujący wierzchowiec ja ptak się pokazać my nieść znajdować się pozycja pionowy
-przychylny każdy ptak lecieć my móc odlecieć dotychczasowy
-ptak===[8]==>lecieć
-przyjazny powietrze czy dziób wbicie ziemia jak miecz nasz ptak spocząć przeminąć czas nasz oddzielny jak dwie złom skrzynia przeszłość złocisty
-ptak===[7]==>dziób
-ptak===[5]==>powietrze
-przystojny mężczyzna który przyjechać krótko ptak przelotny mila witać grono nudzący
-przyszły książka spadać wysokość jaki się wzbić kres nadzieja rozpaczliwie jak ustrzelić ptak trzepotać skrzydło wymowa to być wymagać dodatkowy
-ptak===[2]==>skrzydło
-przytłumiony barwa zbocze nic jakiś egzotyczny ptak szczyt wzgórze pokryć być kamienny
-ptasi pióra wyglądać jak schwytać ptak usłyszeć zapowiedź się gwóźdź program gromki
-ptak===[2]==>pióra
-puszysty jak ptak musieć ona koniec wyjąć kieszeń co gorszy
-pyszny skóra zgłosić się nagroda warknąć ona ty ptak tak ciężki
-rodny to wystarczyć wiatr ziarno przywiać czy ptak dziób wypuścić być my cały
-ptak===[7]==>dziób
-rozbawiony kto chichotać chichotać łza sekunda pot aleja przelecieć chichotać duży ptak niebieski
-ptak===[6]==>niebieski
-rozciągnięty plac święty marek inauguracja karnawał człowiek wzlatywać jak ptak trochę on się kręcić głowa widzieć zaczarować świat pajacyk oddanie krzątający się
-rozeschnięty bryczka jakiś ciężki ptak poderwać się jagodowisko coś czarny
-ptak===[2]==>czarny
-rozkrzyżowany ręka tył nic czarny ptak odarty pióra wy się wszyscy sprzedawać szklany
-ptak===[2]==>czarny
-ptak===[2]==>pióra
-rozłożysty biurko prezydent wstać roztrząść założyć ręka tył wyglądać jak zmęczony ptak dłuższy
-rozpalony przymknąć oko serce zerwać się ona jak ptak oszalały zacząć tłuc się pierś mocno gwałtownie ogromny
-rozpędowy który jak ptak potworny rzucać się mroczny
-rozpostarty jak morski horyzont przelecieć ptak niebieski
-ptak===[6]==>niebieski
-rozpostarty ramię rzucić się nic ptak się lody ruszyć ledwo pozbierać się trawnik zakrwawiony
-rozpostarty skrzydło czy to być ptak puszysty
-ptak===[2]==>skrzydło
-rozwiany ruda włos wyglądać jak rajski ptak tło szarość zapadający
-ptak===[4]==>rajski
-równy stopień podobać się on się mężczyzna wolny jak ptak pozwalać się adorować nizać adorować inny
-ptak===[6]==>wolny
-rubinowy kropla kołować podłoga nic ptak furkot czerwony
-rubinowy skrzydło wzbić się powietrze buchać nozdrza płomień to on to ognisty ptak wrzasnąć osłaniać twarz żar który bić pradawny
-ptak===[2]==>skrzydło
-ptak===[5]==>powietrze
-ruchomy obraz bywać kolorowy ptak niemrawy
-ptak===[5]==>kolorowy
-rzeźbiarski realizacja być jajko który lata wykluć się się ogromny ptak budynek ptak budynek być jak ptak czas jak wielki
-ptak===[14]==>lata
-sakralny zabójstwo musieć pojawić się się orzeł ptak królewski śmierć wywrzeć wielki
-ptak===[111]==>orzeł
-orzeł===[216]==>ptak
-sąsiedni który drapieżny ptak usiłować rozpostrzeć skrzydło południo-wschód łeb groźnie wiszący
-ptak===[2]==>skrzydło
-setny piętro chwila być dola ognisty ptak wrzasnąć radośnie drugi
-siwy włos podbijać stop tak czuć się jak ptak obejrzeć się wzgórze zdumiony
-skrupulatny pędzel ptak listowie brunatny modry odlatywać zatrzymać stronica ozdobny
-skulony łóżko jak zmarznięty ptak bać się się spojrzeć strona wicie się widzieć się szczupły
-słoneczny niebo który przelatywać ptak ta stać podlegać sąd być wrzucany
-ptak===[31]==>niebo
-słoneczny on święta zwierzę być mityczny ptak feniks symbolizować odradzający
-ptak===[12]==>zwierzę
-smutny zakończenie dziewczynka chcieć dotknąć niebo jak ptak się zabić co napisać wiersz mieszkaniec wioska myśleć to wszystek
-ptak===[31]==>niebo
-spadający piórko opadać tak łagodnie zgubić jeść jakiś ptak pewnie gołąb być miękki
-ptak===[24]==>gołąb
-spadły on jak ptak słychać być zdumiony
-spełniający kryterium rakieta być latać gołąb drewniany ptak poruszać się dzięki strumieniowy
-ptak===[42]==>latać
-ptak===[24]==>gołąb
-spocony cielsko coś środek rozsadzać ja czaszka to ptak próbować wyklucie się się moje mózg gładki
-spodni krawat pas powietrze wisieć kwiat zielone list być ptak list dziobać tata stać się ona sama słońce żółty
-ptak===[5]==>powietrze
-spotkany tor on spojrzenie ptak być cały mokry tak mokry jak bycie ptak jesienny
-spotykany on najczęściej być łabędź niemy dziś ptak ten podejmować daleki
-spowolniony rytm jak kamień lecący głąb studnia jak ptak zraniony
-srebrny góra mieszek ptak on pióra ciepło być spać załoga błyskawica straż pełnia księżyc srebrny
-ptak===[2]==>pióra
-srebrny swoja pełnia szmaragdowy mrok oblewać który ptak ognisty śpiewać tronowy
-srebrny sylweta ptak to czapla ptak królewski stać czata nieruchomy
-srebrzysty dłoń coś się ona poruszyć nic ptak przelatujący tło zasnuty
-stary opowiadać jakiś dziwny ptak rzeczywiście przelecieć zniknąć ktoś pamiętać jak pradziad mówić on dawny
-stosowny miejsce podziobać jeść ptak zwać nota wydawca fragment pochodzić pamiętnik krótki
-stosowny wydawać ja się prawda nasi błąd konkludować pytanie czy ten ptak kalać gniazdo co jeść kalać czy ten co mówić ta pozwalać wierny serdeczny
-ptak===[4]==>gniazdo
-stremowany oczekiwanie cieniutki deszcz zaszeptać liść skryć zarośla ptak zdychać mozolnie rozpaczliwy
-suchy burza kołować jak wielki nocny ptak chwila cisza odzywać się się nieoczekiwanie słowik czysta jasny
-ptak===[10]==>słowik
-suchy serce kołatać się przerażenie jak ptak złapać siatka potrafić się cieszyć umieć podbiec ten dziecko tak upragniony
-szalony być szczęście być ja pierzchnąć jak ptak każdy
-szary harcerka zerwać się wiatr noc szarzeć wiatr rozdmuchiwać ciemność odezwać się się ptak cichutko nieśmiało ptak szybciej czarny
-ptak===[2]==>czarny
-szary plamka podążyć strona wieża luneta być widać jak ptak lądować kolejno wąski
-szczery spowiedź przynieść ulga ptak odlecieć zacząć żałować zbyt pochopnie obarczyć swa problem stary
-szczerzący ząb maszkara kaskada deszcz figurka wyglądać żałośnie jak stróż nadnaturalnie wielki ptak zmoknięty
-szponiasty palec ptak zacisnąć powieka pchnąć cały
-sztywny kołeczek ptak sowa kruk twardy
-ptak===[16]==>sowa
-ptak===[9]==>kruk
-śmiejący się być to ten dzień pieniek chałupa ojczym obciąć łeb kurak ptak nagle wyrwać on się ręka powiewać okaleczony
-śpiewany hymn otwierać mała usta jak ptak spragniony woda pokazywać rzadki
-świeży pauza pan drugi prosić zauważyć ów ptak martwy być mieszkaniec żaden
-świeży wiśnia ty ty nasz pocałunek nic ptak zlatywać moja głowa usta jeden
-tajemniczy sprawa słońce złoty ptak przelecieć jeden
-teatralny dziecko młodzież poznanie czyja to ryba czyj to ptak wyróżnienie stopień konkurs sztuka teatralny
-tęczowy paleta wyglądać jak rajski ptak góra rogi obraz uroczo dwa wypięty
-ptak===[4]==>rajski
-tęskny głos nawoływać księżyc czas wodny ptak sitowie on się przyśnić ryba niedługi
-tłuczony szkła ptak pofrunąć nic taki się stać się oczekiwany
-twardy sen ptak otworzyć oko popatrzyć dwa prostokąt żółty
-twardy życie odradzać się czas wojna trzykrotnie ptak feniks palić bombardować likwidować przystęp niezrozumiały
-tylny siedzenie komórka wyglądać jak obrazić martwy ptak móc bycie tak wredny
-uschnięty drzewo sowa śledzić wzrok przejeżdżać oddział tętent kopyto ucichnąć ptak pozostać miejsce zamrzeć bezruch wbijać spojrzenie wielki
-ptak===[16]==>sowa
-ptak===[3]==>drzewo
-uzależniony być łaska bóg zostać wybraniec należeć modlić się się dorabiać zatoczyć nic ptak krąg głowa śpiew lupa przeskakiwać rzeka zawisać chwila spiczasty
-ptak===[16]==>śpiew
-ważny ile raz ptak uderzyć powietrze skrzydło ważny
-ptak===[2]==>skrzydło
-ptak===[5]==>powietrze
-ważny rola wprowadzać życie dziecko harmonia równowaga ład wiersz skowronek ptak żyć raz rolnik ta sam niebo obydwaj współtworzyć świat śpiewający
-ptak===[7]==>skowronek
-ptak===[31]==>niebo
-wesoły jak ptak daleki
-wewnętrzny podwórzec kamienica który wlecieć ptak alba tajemny
-wędrowny obłok wielki utkać puch ptak niesiony pasat błękitny
-wielki gniazdo wdowiec taki imię nadać bocian ojciec ptak lata mieszkać samotnia rozłożysty
-ptak===[12]==>bocian
-ptak===[14]==>lata
-ptak===[4]==>gniazdo
-wielki troska jak czarny ptak przelatywać czoło czoło wszystek
-ptak===[2]==>czarny
-większy brawura miłość ptak to dobro sporny dzik ptak wolność jak cygan błędny
-ptak===[55]==>wolność
-wilgotny ziemia zapach błoto muł unosić się woda krążyć jak niewidoczny ptak wyżej wyżej obejmować płachta niewidzialny
-wirujący ciemność maska wyrastać ona ptak drewniany wczepić tyć głowa niewidoczny
-wiszący niebo chmura jak ptak poznawać jeść otwierać się zamykać grać swa wielki
-ptak===[31]==>niebo
-wodny szczur ptak widzieć niebo niższy
-ptak===[31]==>niebo
-wolny jak ptak nikt ojciec wymagać inny
-ptak===[6]==>wolny
-wschodni dwugłowy ptak perłowy pantofelek naśladować swoja stylistyka rysunek strój bohater typowy
-wskazany kierunek to jakiś ptak pewnie gęś najlepiej raz pieczony
-wspaniały rzecz samolot się zachwiać jak ptak śmiertelnie trafić potknąć się się swa powietrzny
-ptak===[4]==>samolot
-wspólny nadziać rozumieć naraz jak własny przyłączyć się moje śpiew herbowy ptak wołać my górny
-ptak===[16]==>śpiew
-wszystek co krok tak gin co być moja szczęście ulatać jak ptak oparty okno stać wpatrzony ma wspomnienie szlak zdradliwy być czar dziewczęcy gorący
-wszystek odesłać ziemia pełzać jak ptak połamany
-wszystek pośrednio znajoma sąsiad krewny co to ptak co własny
-wszystek to porzucić porzucić tak niewytłumaczalny się sposobić jak ptak który bez powód odlatywać wygodny
-wszystek wiedzieć wystać ty jak cierpliwy ptak który ptak być taki najcierpliwszy usiąść chwiejnie poprawić dłoń włos pełny
-wszystek wyciągać przywozić brzeg kład trawa pozwalać porwać ona ptak pot brnąć dalej koniec osiągać cel swoja wędrówka czy to wszystek
-wszystek znieść ptak trudno być kaczka to zakwitły
-ptak===[2]==>kaczka
-wybity szyba wlecieć jakiś ptak tłuc się sufit alba korytarz buszować bezdomny
-wyciągnięty ręka jak ciemnoniebieski ptak startować wysoki
-wycyzelowany kształt podróżować samotnia gardzić wspólnota czas zakrzyknąć jakiś ptak drapieżny alba zahuczeć wiatr czub drzewo który zaczynać się kołysać monotonny
-ptak===[3]==>drzewo
-wygłodniały zwierzę być bardzo blisko rzeczywiście załopotać skrzydło ja kisić duży nocny ptak się ona otrzeć pot dobiec ona płacz małpa nagle przeniknąć ona przytłaczający
-ptak===[2]==>skrzydło
-ptak===[12]==>zwierzę
-wypchany kot dalej zostawać wysłać ptak wiadomość stworzenie wielkość wróbel przynosić zapieczętowany
+zostawać wysłać ptak wiadomość stworzenie wielkość wróbel przynosić
 ptak===[40]==>wróbel
-wyschnięty łożysko strumień jakiś ptak przelecieć góra rozpaczliwy
-wysoki trawa podrywać się bursztynowy ptak szybować majestatycznie ziemia nagle wbijać się dziób słoneczny krążek rozcinać on dwie równy
-ptak===[7]==>dziób
-zaciśnięty palec upuszczony portfel bezsilnie jak postrzelić ptak się rynsztok bezradny charkot grubas noc odpowiadać przeciągły
-zakazany rozkosz który śmiać się myśleć okno jakiś czarniawy ptak przysiąść niedaleki
-zakrzywiony nos celować ja ptak drapieżny szukać najlepszy
-zamknięty butelka pojawiać się się ptak który jak dusza cielesny
-zapięty cholera poczuć coś drań zakląć zmartwić ptak furkot uderzyć blacha nasłoneczniony
-zaprzyjaźniony kelner biesiadnik srebrny ptak wzbić się powietrze polecieć ocean pożegnanie być ostateczny
-ptak===[5]==>powietrze
-zaprzyjaźniony szynkarz prowadzić żyłka ptak drzeć się wniebogłosy chłopak schwytać zostać rozeźlony
-zaprzyjaźniony szynkarz prowadzić żyłka ptak drzeć się wniebogłosy chłopak zostać schwytać rozeźlony
-zasrany wieża miał racja mieszkać jakiś ptak pełno być przymarznięty
-zastanawiający być naczynie ogarniać ogień obraz płonąć ptak sam centrum zewnętrzny
-zatruty strzał ten ptak siedem raz okrążyć polanka królewski
-zawadiacki czubek głowa ptak czas siadać ramię czuć się szczęśliwy
-zbolały czaszka ptak zbyt ciasny
-zdradliwy pożądanie usta nasz łączyć się pocałunek który sprawiać ptak śpiewać najgłębszy
-zdrowy dobro czar chłopak przekrzywić głowa jak ptak wsłuchiwać się się brzmienie obcy
-zdwojony siła śmigać jak ptak skrzydło orli
-ptak===[2]==>skrzydło
-zimowy pora przepędzać wiosna spód woda wylatać być atol ten ptak wiosna nadzieja symbol czystość nieskalany
-ptak===[5]==>wiosna
-zjednoczony krąg który stać ptak przestać bycie łabędź powrót być domniemany
-zjednoczony wiek ten sam ptak stan taż symbol powracający
-zoologiczny klatka orzeł chodzić my to orzeł ptak królewski nasz godło państwowy
-ptak===[111]==>orzeł
-godło===[284]==>orzeł
-orzeł===[216]==>ptak
-orzeł===[115]==>godło
-zoologiczny ogród ten ptak być martwy co więcej leżeć ziemia ja pan drugi siadać krzesło lewy
-zoologiczny ten ptak to być ptak wolny to rozróżnienie zdawać się mieć żaden
+zostawać ograniczony żaden prawo ten ptak musieć
+siedzieć ptak wbijać
+brać być ptak zwierzę człowiek starszy pan który zwać
+ptak===[12]==>zwierzę
+zrobić kilka krok on strona ptak podreptać
+chlapać się beztroska całkiem jak ptak trzepać się kałuża nabierać
+rzucić się nic ptak się lody ruszyć
+siedzieć ptak rycerz płaszcz kaptur bliźniaczo podobny pozostały przemówić
+wyprowadzać ląg ów herbowy polski ptak nasz narodowy godło jak skarb przechowywać
+godło===[100]==>polski
+biec ulica jak ptak to być piękno zwątpienie czuć
+odlecieć zdobyć ptak wielki jak gęś nic się przydać
+odmówić ten swe wsparcie czarny ptak przelecieć
+ptak===[2]==>czarny
+śpiewać przechylać ta głowa bok jak ptak wiosenny deszcz spadły nieskąpo ta rok słońce dogrzewać
+dorzucić drugi pewien ptak zrobić
+zobaczyć ptak zniknąć
+wiedzieć czas oczyszczać miejsce poletko ptak przystępować
+odezwać się się ptak cichutko nieśmiało ptak szybciej czarny szybciej co ty zadyszeć
+ptak===[2]==>czarny
+zostać ja schadzka niespodziany jak ten ptak co jezioro odbić
+podrywać się ptak kołować
+runąć dół jak zranić ptak łopotać zerwany droga purpurowy proporzec zwalić
+uciec trzeci dzień ptak pojawić się
+trzymać dziwny to być ptak zwiastun symbol dawniejszy tysiąclecie duch święty zstępować
+umieć odgadywać myśl fruwać jak ptak rozmawiać wąż umieć
+zachwiać jak ptak śmiertelnie trafić potknąć się
+poczekać chwila być dzisiaj wolny jak ptak miał powód napadać zawał spytać
 ptak===[6]==>wolny
-zrezygnowany czarodziejka usiąść miejsce który ptak opuścić spojrzeć słonawy
-zupełny brak odzew zadzwonić ponownie jakiś ptak obudzić się wrzasnąć szyderczo ochrypły
-zupełny oderwanie się ziemia wyglądać jak dziwnie mądry ptak uduchowiony
-zwany inaczej strusie pampasy ten trójpalczasty ptak przebywać trawiasty
-zwrotnikowy roślinność głos jak ciężki ptak dostrzegać swa zdobycz zatoczyć szeroki
-zwrotny jak ten ptak gałąź zdać się kobieta cały
-żaden źródło hałas daleko ujadać pies czas zapiać kogut krzyknąć jakiś ptak ta koszmarny
-żałobny zwisać furta olbrzym gałąź żaden on ptak igliwie cichy
-żałosny próba taniec rytmicznie tak jakoś niezdarnie wyglądać jak usiłować podfrunąć ptak obcięty
-żmijowy swoja nieszczęście dowiadywać się się co być paczuszka pojawiać się się taż ognisty ptak tom wędrować wiele dzień góra horyzont robić się wyższy
+pierzchnąć jak ptak każdy my pójść
+powiadać ptak feniks polot przeobrażenie rychło tarcza miesięczny podjąć
+siedzieć lalka rajski ptak oboje groteskowo malowniczy szydzący swa piękność pomyśleć wstawać
+ptak===[4]==>rajski
+usłyszeć lekki fuknięcie duży ptak kręcić
+wtulić ustnik warga nic ptak skrzydło unieść
+ptak===[2]==>skrzydło
+zacisnąć powieka kto on być czy co ryba ssak to czy ptak czy owad jak my taki coś spojrzeć
+ptak===[3]==>owad
+ptak===[3]==>ssak
+rozwijać biały żagiel duży ptak skrzydło odlot łagodny zachodni wiatr posuwać
+ptak===[2]==>skrzydło
+biały===[2]==>ptak
+sprzątnąć oko miał jak sosna człowiek ptak czy zając koga ta oko przymrużyć
+wiedzieć odwrotnie ptak trzeba
+kochać ta ptak szaleńczo być gotowy zabicie on obrona gin ptak modlitwa docierać
+śmiać się dół co jak ptak poszybować
+zamknąć klatka ptak odlecieć
+opadać ptak zestrzelić połamany skrzydło oko pełny łza patrzyć
+ptak===[2]==>skrzydło
+odfrunąć my jak ptak iść
+cichnąć słychać śpiew ptak jakiś samotny ptak który kilka sekunda ta orgia hałas dostać
+ptak===[16]==>śpiew
+poruszać się sztywno nienaturalnie najpospolitszy ptak spotykać wersja miał zły deseń skrzydło zapomnieć
+ptak===[2]==>skrzydło
+okaleczać ptak sasanka podskakujący wzgórek dziwacznie jak okaleczać
+wzbić się powietrze buchać nozdrza płomień to on to ognisty ptak wrzasnąć
+ptak===[5]==>powietrze
+odpowiedzieć ptak mniej więcej nalegać
+nizać słowo obcy ptak stado rzucić
+powiedzieć ten to ten ptak zrodzić dotknięcie twoja dłoń ptak co być prawda prawda powiedzieć
+pojawiać się się taż ognisty ptak tom wędrować

@@ -13,7 +13,7 @@ def parse_side(side_tuple):
 
 def is_boundary_word(word):
   id = clp.rec(word)[0]
-  if clp.label(id)[0] != 'C':
+  if clp.label(id)[0] != 'B':
     return False
   if clp.bform(id) == u'być':
     return False
@@ -26,7 +26,7 @@ def bform(word_list):
 
 def filter_left(side_list):
   new_side_list = None
-  for i in xrange(len(side_list)-1, 0, -1):
+  for i in xrange(len(side_list)-1, -1, -1):
     if is_boundary_word(side_list[i]):
       new_side_list = side_list[i:]
       break

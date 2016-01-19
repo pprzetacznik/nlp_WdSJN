@@ -9,9 +9,11 @@ clp = CLP()
 
 def parse_side(side_tuple):
   left_data = re.findall(ur"([^\s]+?) \[.*?\]", side_tuple, re.DOTALL)
-  return [key for key in left_data if clp.rec(key) and clp.label(clp.rec(key)[0])[0] != 'G']
+  return left_data
 
 def is_boundary_word(word):
+  if not clp.rec(word):
+    return False
   id = clp.rec(word)[0]
   if clp.label(id)[0] != 'B':
     return False
@@ -41,8 +43,8 @@ def filter_right(side_list):
   return new_side_list
 
 def parse_note_to_snippet_list(note_tuple):
-  left = bform(filter_left(parse_side(note_tuple[0])))
-  right = bform(filter_right(parse_side(note_tuple[3])))
+  left = filter_left(parse_side(note_tuple[0]))
+  right = filter_right(parse_side(note_tuple[3]))
   return [left, [note_tuple[1]], right] if (left and right) else None
 
 def parse_note(filename):
